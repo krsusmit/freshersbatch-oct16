@@ -1,1 +1,1 @@
-created readme file inside assignments dtrectory
+created readme file in assignments dtrectory
