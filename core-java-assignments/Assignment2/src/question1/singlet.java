@@ -36,7 +36,7 @@ class Singleton {
 
 // Class 2
 // Main class
-class GFG {
+class singlet {
 	// Main driver method
 	public static void main(String args[])
 	{
